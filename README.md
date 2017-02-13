@@ -10,6 +10,7 @@
 ## Preprocessing of raw data
 https://www.kaggle.com/bpavlyshenko/data-science-bowl-2017/nodules-segmentation
 https://www.kaggle.com/anokas/data-science-bowl-2017/exploratory-data-analysis/notebook
+https://www.kaggle.com/apapiu/data-science-bowl-2017/exploratory-analysis-visualization
 
 
 ## Sample classification model
