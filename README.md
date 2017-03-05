@@ -48,3 +48,14 @@ Conference https://sites.google.com/site/skevinzhou/teaching/tutorials/miccai201
 https://www.kaggle.com/sentdex/data-science-bowl-2017/first-pass-through-data-w-3d-convnet/discussion
 
 https://www.kaggle.com/gzuidhof/data-science-bowl-2017/full-preprocessing-tutorial/discussion
+
+## Segmentation
+! https://pyscience.wordpress.com/2014/10/19/image-segmentation-with-python-and-simpleitk/
+! http://nbviewer.jupyter.org/urls/bitbucket.org/somada141/pyscience/raw/master/20141001_SegmentationSimpleITK/Material/SegmentationSimpleITK.ipynb
+
+! http://nbviewer.jupyter.org/urls/bitbucket.org/somada141/pyscience/raw/master/20141001_SegmentationSimpleITK/Material/SegmentationSimpleITK_AltFilters.ipynb
+
+http://www.scipy-lectures.org/packages/scikit-image/
+https://pyscience.wordpress.com/2014/09/11/surface-extraction-creating-a-mesh-from-pixel-data-using-python-and-vtk/
+https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/
+
